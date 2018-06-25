@@ -6,8 +6,8 @@ def oxford_comma(array)
  lastword=newarr.pop
 
      newarr.push("and")
-  puts newarr.push(lastword)
-     array.join
+   newarr.push(lastword)
+     puts newarr.join
 else
 
 array.join(" and ")
