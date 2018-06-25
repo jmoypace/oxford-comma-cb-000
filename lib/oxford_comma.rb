@@ -5,6 +5,7 @@ def oxford_comma(array)
     array.push(anda)
   end
 array.join
+puts array
 end
 
 
