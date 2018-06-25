@@ -11,5 +11,5 @@ array.join(" and ")
 end
 
 
-#array=["kiwi", "durian"]
-#oxford_comma(array)
+array=["kiwi", "durian", "starfruit"]
+oxford_comma(array)
