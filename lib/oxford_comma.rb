@@ -1,7 +1,7 @@
 def oxford_comma(array)
   if(array.length >2)
-    array.join(", ")
-  puts  array.split(" ")
+  puts  array.join(", ")
+    #array.split(" ")
   #  lastword=array.pop
     #array.push("and")
   #  array.push(lastword)
