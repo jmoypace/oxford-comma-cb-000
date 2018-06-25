@@ -1,8 +1,8 @@
 def oxford_comma(array)
   if(array.length >2)
-    lastword=array.pop
+  puts  lastword=array.pop
   newstr=  array.join(", ")
-puts  newarr=newstr.split(" ")
+  newarr=newstr.split(" ")
 
  #puts lastword=newarr.pop
 
