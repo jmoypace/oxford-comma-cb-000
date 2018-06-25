@@ -13,5 +13,5 @@ end
 end
 
 
-array=["kiwi", "durian", "starfruit"]
-oxford_comma(array)
+#array=["kiwi", "durian", "starfruit"]
+#oxford_comma(array)
