@@ -3,9 +3,9 @@ def oxford_comma(array)
   newstr=  array.join(", ")
   newarr=newstr.split(" ")
 
-puts lastword=newarr.pop
+ lastword=newarr.pop
 
-    #array.push("and")
+    puts newarr.push("and")
   #  array.push(lastword)
      array.join
 else
