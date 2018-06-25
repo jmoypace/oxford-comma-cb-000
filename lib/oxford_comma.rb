@@ -6,3 +6,7 @@ def oxford_comma(array)
   end
 array.join
 end
+
+
+array=["kiwi", "durian"]
+oxford_comma(array)
