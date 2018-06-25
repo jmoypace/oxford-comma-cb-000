@@ -4,12 +4,10 @@ def oxford_comma(array)
     array.push(" and ")
     array=array.push(anda)
     array.join(" ")
-
-  end
 else
 
 array.join(" and ")
-
+end
 end
 
 
