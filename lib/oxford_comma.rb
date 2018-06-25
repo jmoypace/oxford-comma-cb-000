@@ -5,7 +5,7 @@ def oxford_comma(array)
 
  lastword=newarr.pop
 
-     newarr.push("and")
+     newarr.push("and ")
    newarr.push(lastword)
      puts newarr.join
 else
