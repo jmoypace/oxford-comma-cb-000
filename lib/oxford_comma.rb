@@ -10,5 +10,5 @@ def oxford_comma(array)
 end
 
 
-array=["kiwi", "durian"]
-oxford_comma(array)
+#array=["kiwi", "durian"]
+#oxford_comma(array)
