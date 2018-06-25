@@ -15,5 +15,5 @@ end
 end
 
 
-array=["kiwi", "durian", "starfruit"]
+array=["kiwi", "durian", "starfruit", "mangos", "dragon fruits"]
 oxford_comma(array)
