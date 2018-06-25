@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if(array.length >2)
+  if(array.length >1)
     anda=array.pop
     array.push("and ")
     array=array.push(anda)
