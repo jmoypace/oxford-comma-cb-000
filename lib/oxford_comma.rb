@@ -2,13 +2,13 @@ def oxford_comma(array)
   if(array.length >2)
   puts  lastword=array.pop
   newstr=  array.join(", ")
-puts  newarr=newstr.split(" ")
+  newarr=newstr.split(" ")
 
  #puts lastword=newarr.pop
 
      newarr.push("and")
    newarr.push(lastword)
-    newarr.join(" ")
+puts    newarr.join(" ")
 else
 
 array.join(" and ")
