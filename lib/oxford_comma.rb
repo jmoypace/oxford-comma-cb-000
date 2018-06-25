@@ -4,8 +4,8 @@ def oxford_comma(array)
     array.push("and ")
     array.push(anda)
   end
-array.join
-puts array
+puts array.join
+
 end
 
 
