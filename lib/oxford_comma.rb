@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if(array.length >2)
+#  if(array.length >2)
   newstr=  array.join(", ")
   newarr=newstr.split(" ")
 
@@ -8,10 +8,10 @@ def oxford_comma(array)
      newarr.push("and")
    newarr.push(lastword)
     newarr.join(" ")
-else
+#else
 
-array.join(" and ")
-end
+#array.join(" and ")
+#end
 end
 
 
