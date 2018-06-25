@@ -5,7 +5,7 @@ def oxford_comma(array)
   #  lastword=array.pop
     #array.push("and")
   #  array.push(lastword)
-    array.join
+    puts array.join
 else
 
 array.join(" and ")
@@ -13,5 +13,5 @@ end
 end
 
 
-#array=["kiwi", "durian", "starfruit"]
-#oxford_comma(array)
+array=["kiwi", "durian", "starfruit"]
+oxford_comma(array)
