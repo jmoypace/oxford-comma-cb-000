@@ -6,7 +6,7 @@ def oxford_comma(array)
   newarr=newstr.split(" ")
 
  #puts lastword=newarr.pop
-
+     newarr.pop
      newarr.push("and")
    newarr.push(lastword)
 puts    newarr.join(" ")
